@@ -1,0 +1,39 @@
+match_id,match_date,opponent,venue,mu_score,opp_score,result
+3754014,2015-12-26,Stoke City,Away,0,2,L
+3754347,2015-12-05,West Ham United,Home,0,0,D
+3754015,2015-10-25,Manchester City,Home,0,0,D
+3754008,2015-09-26,Sunderland,Home,3,0,W
+3754011,2015-09-20,Southampton,Away,3,2,W
+3754107,2015-08-14,Aston Villa,Away,1,0,W
+3754097,2015-08-08,Tottenham Hotspur,Home,1,0,W
+3754185,2015-11-21,Watford,Away,2,1,W
+3754162,2015-12-12,AFC Bournemouth,Away,1,2,L
+3754171,2015-10-04,Arsenal,Away,0,3,L
+3754186,2015-11-28,Leicester City,Away,1,1,D
+3754221,2015-08-30,Swansea City,Away,1,2,L
+3754223,2015-10-31,Crystal Palace,Away,0,0,D
+3754254,2015-08-22,Newcastle United,Home,0,0,D
+3754256,2015-10-17,Everton,Away,3,0,W
+3754297,2015-11-07,West Bromwich Albion,Home,2,0,W
+3754044,2015-12-19,Norwich City,Home,1,2,L
+3754003,2015-09-12,Liverpool,Home,3,1,W
+3754019,2015-12-28,Chelsea,Home,0,0,D
+3754031,2016-02-13,Sunderland,Away,1,2,L
+3754081,2016-03-06,West Bromwich Albion,Away,0,1,L
+3754088,2016-01-12,Newcastle United,Away,3,3,D
+3754094,2016-02-02,Stoke City,Home,3,0,W
+3754124,2016-03-20,Manchester City,Away,1,0,W
+3754134,2016-05-10,West Ham United,Away,2,3,L
+3754159,2016-05-17,AFC Bournemouth,Home,3,1,W
+3754165,2016-05-01,Leicester City,Home,1,1,D
+3754200,2016-01-23,Southampton,Home,0,1,L
+3754209,2016-04-10,Tottenham Hotspur,Away,0,3,L
+3754210,2016-05-07,Norwich City,Away,1,0,W
+3754232,2016-03-02,Watford,Home,1,0,W
+3754239,2016-02-28,Arsenal,Home,3,2,W
+3754295,2016-04-16,Aston Villa,Home,1,0,W
+3754281,2016-02-07,Chelsea,Away,1,1,D
+3754299,2016-04-03,Everton,Home,1,0,W
+3754310,2016-04-20,Crystal Palace,Home,2,0,W
+3754319,2016-01-02,Swansea City,Home,2,1,W
+3754345,2016-01-17,Liverpool,Away,1,0,W

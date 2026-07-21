@@ -1,0 +1,21 @@
+player,team,similarity,goals,shots,passes,pass_accuracy,pressures,conversion_rate,target_player
+Riyad Mahrez,Leicester City,0.9708765111392473,8.0,32.0,471.0,69.4,249.0,25.0,Anthony Martial
+Kevin De Bruyne,Manchester City,0.9500964809708399,4.0,20.0,587.0,69.5,163.0,20.0,Anthony Martial
+Alexis Alejandro Sánchez Sánchez,Arsenal,0.9288238749622483,8.0,40.0,489.0,77.5,139.0,20.0,Anthony Martial
+Willian Borges da Silva,Chelsea,0.911236994501974,2.0,16.0,624.0,73.4,176.0,12.5,Anthony Martial
+Oscar dos Santos Emboaba Júnior,Chelsea,0.8820940315205655,1.0,22.0,399.0,79.9,182.0,4.5,Anthony Martial
+Christian Dannemann Eriksen,Tottenham Hotspur,0.9641794668189703,3.0,28.0,550.0,74.5,159.0,10.7,Wayne Mark Rooney
+Aaron Ramsey,Arsenal,0.9474872169640857,3.0,33.0,777.0,85.6,257.0,9.1,Wayne Mark Rooney
+Gnégnéri Yaya Touré,Manchester City,0.9341601026239363,4.0,33.0,670.0,84.8,126.0,12.1,Wayne Mark Rooney
+Mesut Özil,Arsenal,0.9093973544031323,4.0,24.0,957.0,83.7,184.0,16.7,Wayne Mark Rooney
+Philippe Coutinho Correia,Liverpool,0.8658975114655321,2.0,41.0,389.0,76.3,117.0,4.9,Wayne Mark Rooney
+Aaron Ramsey,Arsenal,0.9635114533062502,3.0,33.0,777.0,85.6,257.0,9.1,Juan Manuel Mata García
+Mesut Özil,Arsenal,0.9281149527542294,4.0,24.0,957.0,83.7,184.0,16.7,Juan Manuel Mata García
+Christian Dannemann Eriksen,Tottenham Hotspur,0.9148134041504881,3.0,28.0,550.0,74.5,159.0,10.7,Juan Manuel Mata García
+James Philip Milner,Liverpool,0.8965351233861398,1.0,19.0,628.0,72.6,244.0,5.3,Juan Manuel Mata García
+Willian Borges da Silva,Chelsea,0.8927022027327643,2.0,16.0,624.0,73.4,176.0,12.5,Juan Manuel Mata García
+Danny Drinkwater,Leicester City,0.9581590781275479,0.0,12.0,781.0,75.4,255.0,0.0,Morgan Schneiderlin
+Fernando Luiz Rosa,Manchester City,0.9324813948143935,0.0,8.0,728.0,89.1,219.0,0.0,Morgan Schneiderlin
+N''Golo Kanté,Leicester City,0.9300052110791324,0.0,9.0,597.0,80.9,336.0,0.0,Morgan Schneiderlin
+Francesc Fàbregas i Soler,Chelsea,0.9297442849252113,0.0,18.0,981.0,81.1,275.0,0.0,Morgan Schneiderlin
+Nathaniel Edwin Clyne,Liverpool,0.9179741085911524,0.0,11.0,732.0,79.6,177.0,0.0,Morgan Schneiderlin

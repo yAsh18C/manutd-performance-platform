@@ -1,0 +1,595 @@
+player,pass_recipient,weight
+Adnan Januzaj,Bastian Schweinsteiger,5
+Adnan Januzaj,Daley Blind,1
+Adnan Januzaj,Jesse Lingard,1
+Adnan Januzaj,Juan Manuel Mata García,10
+Adnan Januzaj,Luke Shaw,4
+Adnan Januzaj,Matteo Darmian,3
+Adnan Januzaj,Memphis Depay,4
+Adnan Januzaj,Michael Carrick,1
+Adnan Januzaj,Morgan Schneiderlin,3
+Adnan Januzaj,Wayne Mark Rooney,4
+Ander Herrera Agüera,Adnan Januzaj,1
+Ander Herrera Agüera,Anthony Martial,62
+Ander Herrera Agüera,Ashley Young,58
+Ander Herrera Agüera,Bastian Schweinsteiger,45
+Ander Herrera Agüera,Cameron Borthwick-Jackson,16
+Ander Herrera Agüera,Chris Smalling,48
+Ander Herrera Agüera,Daley Blind,43
+Ander Herrera Agüera,David de Gea Quintana,14
+Ander Herrera Agüera,Faustino Marcos Alberto Rojo,29
+Ander Herrera Agüera,Guillermo Varela Olivera,8
+Ander Herrera Agüera,Jesse Lingard,51
+Ander Herrera Agüera,Juan Manuel Mata García,132
+Ander Herrera Agüera,Luis Antonio Valencia Mosquera,59
+Ander Herrera Agüera,Luke Shaw,9
+Ander Herrera Agüera,Marcus Rashford,15
+Ander Herrera Agüera,Marouane Fellaini-Bakkioui,18
+Ander Herrera Agüera,Matteo Darmian,64
+Ander Herrera Agüera,Memphis Depay,27
+Ander Herrera Agüera,Michael Carrick,52
+Ander Herrera Agüera,Morgan Schneiderlin,74
+Ander Herrera Agüera,Paddy McNair,2
+Ander Herrera Agüera,Phil Jones,25
+Ander Herrera Agüera,Timothy Evans Fosu-Mensah,9
+Ander Herrera Agüera,Wayne Mark Rooney,58
+Andreas Hoelgebaum Pereira,Anthony Martial,5
+Andreas Hoelgebaum Pereira,Cameron Borthwick-Jackson,5
+Andreas Hoelgebaum Pereira,Chris Smalling,1
+Andreas Hoelgebaum Pereira,Daley Blind,6
+Andreas Hoelgebaum Pereira,Guillermo Varela Olivera,2
+Andreas Hoelgebaum Pereira,Jesse Lingard,4
+Andreas Hoelgebaum Pereira,Juan Manuel Mata García,3
+Andreas Hoelgebaum Pereira,Marouane Fellaini-Bakkioui,6
+Andreas Hoelgebaum Pereira,Memphis Depay,1
+Andreas Hoelgebaum Pereira,Michael Carrick,8
+Andreas Hoelgebaum Pereira,Morgan Schneiderlin,1
+Andreas Hoelgebaum Pereira,Paddy McNair,4
+Andreas Hoelgebaum Pereira,Phil Jones,1
+Andreas Hoelgebaum Pereira,Wayne Mark Rooney,1
+Anthony Martial,Ander Herrera Agüera,50
+Anthony Martial,Andreas Hoelgebaum Pereira,2
+Anthony Martial,Ashley Young,26
+Anthony Martial,Bastian Schweinsteiger,42
+Anthony Martial,Cameron Borthwick-Jackson,35
+Anthony Martial,Chris Smalling,14
+Anthony Martial,Daley Blind,28
+Anthony Martial,Donald Love,1
+Anthony Martial,Faustino Marcos Alberto Rojo,58
+Anthony Martial,Guillermo Varela Olivera,13
+Anthony Martial,James Wilson,1
+Anthony Martial,Jesse Lingard,47
+Anthony Martial,Juan Manuel Mata García,108
+Anthony Martial,Luis Antonio Valencia Mosquera,17
+Anthony Martial,Marcus Rashford,28
+Anthony Martial,Marouane Fellaini-Bakkioui,25
+Anthony Martial,Matteo Darmian,27
+Anthony Martial,Memphis Depay,21
+Anthony Martial,Michael Carrick,50
+Anthony Martial,Morgan Schneiderlin,42
+Anthony Martial,Paddy McNair,5
+Anthony Martial,Phil Jones,2
+Anthony Martial,Timothy Evans Fosu-Mensah,2
+Anthony Martial,Wayne Mark Rooney,69
+Ashley Young,Ander Herrera Agüera,60
+Ashley Young,Anthony Martial,54
+Ashley Young,Bastian Schweinsteiger,46
+Ashley Young,Chris Smalling,27
+Ashley Young,Daley Blind,33
+Ashley Young,David de Gea Quintana,32
+Ashley Young,Faustino Marcos Alberto Rojo,1
+Ashley Young,Jesse Lingard,21
+Ashley Young,Juan Manuel Mata García,74
+Ashley Young,Luis Antonio Valencia Mosquera,2
+Ashley Young,Luke Shaw,17
+Ashley Young,Marouane Fellaini-Bakkioui,9
+Ashley Young,Matteo Darmian,14
+Ashley Young,Memphis Depay,18
+Ashley Young,Michael Carrick,52
+Ashley Young,Morgan Schneiderlin,42
+Ashley Young,Paddy McNair,3
+Ashley Young,Phil Jones,23
+Ashley Young,Sergio Germán Romero,2
+Ashley Young,Wayne Mark Rooney,41
+Bastian Schweinsteiger,Adnan Januzaj,4
+Bastian Schweinsteiger,Ander Herrera Agüera,61
+Bastian Schweinsteiger,Andreas Hoelgebaum Pereira,2
+Bastian Schweinsteiger,Anthony Martial,63
+Bastian Schweinsteiger,Ashley Young,67
+Bastian Schweinsteiger,Cameron Borthwick-Jackson,1
+Bastian Schweinsteiger,Chris Smalling,71
+Bastian Schweinsteiger,Daley Blind,91
+Bastian Schweinsteiger,David de Gea Quintana,24
+Bastian Schweinsteiger,Faustino Marcos Alberto Rojo,28
+Bastian Schweinsteiger,Guillermo Varela Olivera,4
+Bastian Schweinsteiger,Jesse Lingard,15
+Bastian Schweinsteiger,Juan Manuel Mata García,77
+Bastian Schweinsteiger,Luis Antonio Valencia Mosquera,11
+Bastian Schweinsteiger,Luke Shaw,45
+Bastian Schweinsteiger,Marcus Rashford,1
+Bastian Schweinsteiger,Marouane Fellaini-Bakkioui,10
+Bastian Schweinsteiger,Matteo Darmian,40
+Bastian Schweinsteiger,Memphis Depay,55
+Bastian Schweinsteiger,Michael Carrick,63
+Bastian Schweinsteiger,Morgan Schneiderlin,69
+Bastian Schweinsteiger,Paddy McNair,12
+Bastian Schweinsteiger,Phil Jones,20
+Bastian Schweinsteiger,Sergio Germán Romero,6
+Bastian Schweinsteiger,Wayne Mark Rooney,84
+Cameron Borthwick-Jackson,Ander Herrera Agüera,17
+Cameron Borthwick-Jackson,Andreas Hoelgebaum Pereira,4
+Cameron Borthwick-Jackson,Anthony Martial,62
+Cameron Borthwick-Jackson,Ashley Young,1
+Cameron Borthwick-Jackson,Bastian Schweinsteiger,5
+Cameron Borthwick-Jackson,Chris Smalling,7
+Cameron Borthwick-Jackson,Daley Blind,51
+Cameron Borthwick-Jackson,David de Gea Quintana,4
+Cameron Borthwick-Jackson,Faustino Marcos Alberto Rojo,5
+Cameron Borthwick-Jackson,Jesse Lingard,21
+Cameron Borthwick-Jackson,Juan Manuel Mata García,23
+Cameron Borthwick-Jackson,Luis Antonio Valencia Mosquera,1
+Cameron Borthwick-Jackson,Marcus Rashford,5
+Cameron Borthwick-Jackson,Marouane Fellaini-Bakkioui,20
+Cameron Borthwick-Jackson,Matteo Darmian,1
+Cameron Borthwick-Jackson,Memphis Depay,42
+Cameron Borthwick-Jackson,Michael Carrick,47
+Cameron Borthwick-Jackson,Morgan Schneiderlin,9
+Cameron Borthwick-Jackson,Paddy McNair,3
+Cameron Borthwick-Jackson,Phil Jones,1
+Cameron Borthwick-Jackson,Wayne Mark Rooney,49
+Chris Smalling,Adnan Januzaj,5
+Chris Smalling,Ander Herrera Agüera,40
+Chris Smalling,Anthony Martial,32
+Chris Smalling,Ashley Young,27
+Chris Smalling,Bastian Schweinsteiger,74
+Chris Smalling,Cameron Borthwick-Jackson,11
+Chris Smalling,Daley Blind,290
+Chris Smalling,David de Gea Quintana,88
+Chris Smalling,Donald Love,2
+Chris Smalling,Faustino Marcos Alberto Rojo,33
+Chris Smalling,Guillermo Varela Olivera,5
+Chris Smalling,Jesse Lingard,22
+Chris Smalling,Juan Manuel Mata García,48
+Chris Smalling,Luis Antonio Valencia Mosquera,64
+Chris Smalling,Luke Shaw,7
+Chris Smalling,Marcus Rashford,3
+Chris Smalling,Marouane Fellaini-Bakkioui,37
+Chris Smalling,Matteo Darmian,85
+Chris Smalling,Memphis Depay,15
+Chris Smalling,Michael Carrick,142
+Chris Smalling,Morgan Schneiderlin,120
+Chris Smalling,Paddy McNair,19
+Chris Smalling,Phil Jones,35
+Chris Smalling,Sergio Germán Romero,18
+Chris Smalling,Timothy Evans Fosu-Mensah,7
+Chris Smalling,Wayne Mark Rooney,51
+Daley Blind,Adnan Januzaj,4
+Daley Blind,Ander Herrera Agüera,57
+Daley Blind,Andreas Hoelgebaum Pereira,7
+Daley Blind,Anthony Martial,109
+Daley Blind,Ashley Young,38
+Daley Blind,Bastian Schweinsteiger,129
+Daley Blind,Cameron Borthwick-Jackson,46
+Daley Blind,Chris Smalling,215
+Daley Blind,David de Gea Quintana,75
+Daley Blind,Donald Love,1
+Daley Blind,Faustino Marcos Alberto Rojo,81
+Daley Blind,Guillermo Varela Olivera,6
+Daley Blind,Javier Hernández Balcázar,1
+Daley Blind,Jesse Lingard,40
+Daley Blind,Juan Manuel Mata García,112
+Daley Blind,Luis Antonio Valencia Mosquera,16
+Daley Blind,Luke Shaw,50
+Daley Blind,Marcus Rashford,17
+Daley Blind,Marouane Fellaini-Bakkioui,77
+Daley Blind,Matteo Darmian,46
+Daley Blind,Memphis Depay,109
+Daley Blind,Michael Carrick,168
+Daley Blind,Morgan Schneiderlin,183
+Daley Blind,Paddy McNair,34
+Daley Blind,Phil Jones,7
+Daley Blind,Sergio Germán Romero,25
+Daley Blind,Timothy Evans Fosu-Mensah,11
+Daley Blind,Wayne Mark Rooney,122
+David de Gea Quintana,Ander Herrera Agüera,16
+David de Gea Quintana,Anthony Martial,55
+David de Gea Quintana,Ashley Young,18
+David de Gea Quintana,Bastian Schweinsteiger,18
+David de Gea Quintana,Cameron Borthwick-Jackson,13
+David de Gea Quintana,Chris Smalling,55
+David de Gea Quintana,Daley Blind,141
+David de Gea Quintana,Donald Love,2
+David de Gea Quintana,Faustino Marcos Alberto Rojo,28
+David de Gea Quintana,Guillermo Varela Olivera,2
+David de Gea Quintana,Jesse Lingard,5
+David de Gea Quintana,Juan Manuel Mata García,16
+David de Gea Quintana,Luis Antonio Valencia Mosquera,21
+David de Gea Quintana,Marcus Rashford,4
+David de Gea Quintana,Marouane Fellaini-Bakkioui,51
+David de Gea Quintana,Matteo Darmian,21
+David de Gea Quintana,Memphis Depay,20
+David de Gea Quintana,Michael Carrick,37
+David de Gea Quintana,Morgan Schneiderlin,19
+David de Gea Quintana,Nick Powell,1
+David de Gea Quintana,Paddy McNair,6
+David de Gea Quintana,Phil Jones,17
+David de Gea Quintana,Timothy Evans Fosu-Mensah,5
+David de Gea Quintana,Wayne Mark Rooney,25
+Donald Love,Anthony Martial,2
+Donald Love,Daley Blind,1
+Donald Love,David de Gea Quintana,2
+Donald Love,Jesse Lingard,1
+Donald Love,Juan Manuel Mata García,4
+Donald Love,Michael Carrick,8
+Donald Love,Morgan Schneiderlin,3
+Donald Love,Wayne Mark Rooney,3
+Faustino Marcos Alberto Rojo,Ander Herrera Agüera,27
+Faustino Marcos Alberto Rojo,Anthony Martial,105
+Faustino Marcos Alberto Rojo,Ashley Young,5
+Faustino Marcos Alberto Rojo,Bastian Schweinsteiger,45
+Faustino Marcos Alberto Rojo,Cameron Borthwick-Jackson,10
+Faustino Marcos Alberto Rojo,Chris Smalling,27
+Faustino Marcos Alberto Rojo,Daley Blind,96
+Faustino Marcos Alberto Rojo,David de Gea Quintana,12
+Faustino Marcos Alberto Rojo,Guillermo Varela Olivera,1
+Faustino Marcos Alberto Rojo,Jesse Lingard,32
+Faustino Marcos Alberto Rojo,Juan Manuel Mata García,24
+Faustino Marcos Alberto Rojo,Luis Antonio Valencia Mosquera,1
+Faustino Marcos Alberto Rojo,Marcus Rashford,34
+Faustino Marcos Alberto Rojo,Marouane Fellaini-Bakkioui,10
+Faustino Marcos Alberto Rojo,Matteo Darmian,1
+Faustino Marcos Alberto Rojo,Memphis Depay,70
+Faustino Marcos Alberto Rojo,Michael Carrick,35
+Faustino Marcos Alberto Rojo,Morgan Schneiderlin,55
+Faustino Marcos Alberto Rojo,Phil Jones,1
+Faustino Marcos Alberto Rojo,Wayne Mark Rooney,58
+Guillermo Varela Olivera,Ander Herrera Agüera,15
+Guillermo Varela Olivera,Andreas Hoelgebaum Pereira,1
+Guillermo Varela Olivera,Anthony Martial,14
+Guillermo Varela Olivera,Bastian Schweinsteiger,1
+Guillermo Varela Olivera,Cameron Borthwick-Jackson,1
+Guillermo Varela Olivera,Daley Blind,8
+Guillermo Varela Olivera,David de Gea Quintana,5
+Guillermo Varela Olivera,Jesse Lingard,14
+Guillermo Varela Olivera,Juan Manuel Mata García,30
+Guillermo Varela Olivera,Marcus Rashford,6
+Guillermo Varela Olivera,Marouane Fellaini-Bakkioui,7
+Guillermo Varela Olivera,Memphis Depay,3
+Guillermo Varela Olivera,Michael Carrick,19
+Guillermo Varela Olivera,Morgan Schneiderlin,6
+Guillermo Varela Olivera,Paddy McNair,9
+Guillermo Varela Olivera,Phil Jones,1
+Guillermo Varela Olivera,Timothy Evans Fosu-Mensah,14
+James Wilson,Luis Antonio Valencia Mosquera,2
+James Wilson,Marouane Fellaini-Bakkioui,1
+James Wilson,Wayne Mark Rooney,3
+Javier Hernández Balcázar,Juan Manuel Mata García,4
+Javier Hernández Balcázar,Luis Antonio Valencia Mosquera,2
+Javier Hernández Balcázar,Memphis Depay,1
+Javier Hernández Balcázar,Michael Carrick,2
+Javier Hernández Balcázar,Morgan Schneiderlin,1
+Javier Hernández Balcázar,Wayne Mark Rooney,1
+Jesse Lingard,Ander Herrera Agüera,55
+Jesse Lingard,Andreas Hoelgebaum Pereira,4
+Jesse Lingard,Anthony Martial,49
+Jesse Lingard,Ashley Young,15
+Jesse Lingard,Bastian Schweinsteiger,17
+Jesse Lingard,Cameron Borthwick-Jackson,16
+Jesse Lingard,Chris Smalling,11
+Jesse Lingard,Daley Blind,19
+Jesse Lingard,David de Gea Quintana,4
+Jesse Lingard,Donald Love,1
+Jesse Lingard,Faustino Marcos Alberto Rojo,23
+Jesse Lingard,Guillermo Varela Olivera,6
+Jesse Lingard,Juan Manuel Mata García,89
+Jesse Lingard,Luis Antonio Valencia Mosquera,28
+Jesse Lingard,Marcus Rashford,30
+Jesse Lingard,Marouane Fellaini-Bakkioui,29
+Jesse Lingard,Matteo Darmian,64
+Jesse Lingard,Memphis Depay,20
+Jesse Lingard,Michael Carrick,57
+Jesse Lingard,Morgan Schneiderlin,37
+Jesse Lingard,Paddy McNair,3
+Jesse Lingard,Phil Jones,1
+Jesse Lingard,Timothy Evans Fosu-Mensah,4
+Jesse Lingard,Wayne Mark Rooney,53
+Juan Manuel Mata García,Adnan Januzaj,8
+Juan Manuel Mata García,Ander Herrera Agüera,140
+Juan Manuel Mata García,Andreas Hoelgebaum Pereira,8
+Juan Manuel Mata García,Anthony Martial,140
+Juan Manuel Mata García,Ashley Young,69
+Juan Manuel Mata García,Bastian Schweinsteiger,94
+Juan Manuel Mata García,Cameron Borthwick-Jackson,39
+Juan Manuel Mata García,Chris Smalling,60
+Juan Manuel Mata García,Daley Blind,126
+Juan Manuel Mata García,David de Gea Quintana,11
+Juan Manuel Mata García,Donald Love,4
+Juan Manuel Mata García,Faustino Marcos Alberto Rojo,59
+Juan Manuel Mata García,Guillermo Varela Olivera,22
+Juan Manuel Mata García,Javier Hernández Balcázar,2
+Juan Manuel Mata García,Jesse Lingard,81
+Juan Manuel Mata García,Luis Antonio Valencia Mosquera,108
+Juan Manuel Mata García,Luke Shaw,11
+Juan Manuel Mata García,Marcus Rashford,26
+Juan Manuel Mata García,Marouane Fellaini-Bakkioui,28
+Juan Manuel Mata García,Matteo Darmian,118
+Juan Manuel Mata García,Memphis Depay,79
+Juan Manuel Mata García,Michael Carrick,129
+Juan Manuel Mata García,Morgan Schneiderlin,120
+Juan Manuel Mata García,Paddy McNair,16
+Juan Manuel Mata García,Phil Jones,16
+Juan Manuel Mata García,Sergio Germán Romero,1
+Juan Manuel Mata García,Timothy Evans Fosu-Mensah,17
+Juan Manuel Mata García,Wayne Mark Rooney,102
+Luis Antonio Valencia Mosquera,Ander Herrera Agüera,63
+Luis Antonio Valencia Mosquera,Anthony Martial,26
+Luis Antonio Valencia Mosquera,Bastian Schweinsteiger,13
+Luis Antonio Valencia Mosquera,Cameron Borthwick-Jackson,2
+Luis Antonio Valencia Mosquera,Chris Smalling,52
+Luis Antonio Valencia Mosquera,Daley Blind,7
+Luis Antonio Valencia Mosquera,David de Gea Quintana,22
+Luis Antonio Valencia Mosquera,Faustino Marcos Alberto Rojo,2
+Luis Antonio Valencia Mosquera,James Wilson,2
+Luis Antonio Valencia Mosquera,Javier Hernández Balcázar,2
+Luis Antonio Valencia Mosquera,Jesse Lingard,53
+Luis Antonio Valencia Mosquera,Juan Manuel Mata García,140
+Luis Antonio Valencia Mosquera,Marcus Rashford,23
+Luis Antonio Valencia Mosquera,Marouane Fellaini-Bakkioui,38
+Luis Antonio Valencia Mosquera,Memphis Depay,4
+Luis Antonio Valencia Mosquera,Michael Carrick,61
+Luis Antonio Valencia Mosquera,Morgan Schneiderlin,30
+Luis Antonio Valencia Mosquera,Phil Jones,14
+Luis Antonio Valencia Mosquera,Wayne Mark Rooney,51
+Luke Shaw,Adnan Januzaj,6
+Luke Shaw,Ander Herrera Agüera,19
+Luke Shaw,Ashley Young,20
+Luke Shaw,Bastian Schweinsteiger,42
+Luke Shaw,Chris Smalling,10
+Luke Shaw,Daley Blind,47
+Luke Shaw,David de Gea Quintana,1
+Luke Shaw,Juan Manuel Mata García,8
+Luke Shaw,Marouane Fellaini-Bakkioui,9
+Luke Shaw,Memphis Depay,76
+Luke Shaw,Michael Carrick,15
+Luke Shaw,Morgan Schneiderlin,23
+Luke Shaw,Sergio Germán Romero,3
+Luke Shaw,Wayne Mark Rooney,12
+Marcus Rashford,Ander Herrera Agüera,17
+Marcus Rashford,Anthony Martial,23
+Marcus Rashford,Cameron Borthwick-Jackson,3
+Marcus Rashford,Chris Smalling,2
+Marcus Rashford,Daley Blind,4
+Marcus Rashford,Faustino Marcos Alberto Rojo,15
+Marcus Rashford,Guillermo Varela Olivera,2
+Marcus Rashford,Jesse Lingard,18
+Marcus Rashford,Juan Manuel Mata García,23
+Marcus Rashford,Luis Antonio Valencia Mosquera,10
+Marcus Rashford,Marouane Fellaini-Bakkioui,3
+Marcus Rashford,Matteo Darmian,11
+Marcus Rashford,Memphis Depay,2
+Marcus Rashford,Michael Carrick,6
+Marcus Rashford,Morgan Schneiderlin,2
+Marcus Rashford,Timothy Evans Fosu-Mensah,3
+Marcus Rashford,Wayne Mark Rooney,11
+Marouane Fellaini-Bakkioui,Ander Herrera Agüera,31
+Marouane Fellaini-Bakkioui,Andreas Hoelgebaum Pereira,3
+Marouane Fellaini-Bakkioui,Anthony Martial,30
+Marouane Fellaini-Bakkioui,Ashley Young,12
+Marouane Fellaini-Bakkioui,Bastian Schweinsteiger,19
+Marouane Fellaini-Bakkioui,Cameron Borthwick-Jackson,16
+Marouane Fellaini-Bakkioui,Chris Smalling,24
+Marouane Fellaini-Bakkioui,Daley Blind,37
+Marouane Fellaini-Bakkioui,David de Gea Quintana,7
+Marouane Fellaini-Bakkioui,Faustino Marcos Alberto Rojo,7
+Marouane Fellaini-Bakkioui,Guillermo Varela Olivera,1
+Marouane Fellaini-Bakkioui,James Wilson,1
+Marouane Fellaini-Bakkioui,Jesse Lingard,39
+Marouane Fellaini-Bakkioui,Juan Manuel Mata García,40
+Marouane Fellaini-Bakkioui,Luis Antonio Valencia Mosquera,26
+Marouane Fellaini-Bakkioui,Luke Shaw,3
+Marouane Fellaini-Bakkioui,Marcus Rashford,3
+Marouane Fellaini-Bakkioui,Matteo Darmian,44
+Marouane Fellaini-Bakkioui,Memphis Depay,30
+Marouane Fellaini-Bakkioui,Michael Carrick,37
+Marouane Fellaini-Bakkioui,Morgan Schneiderlin,36
+Marouane Fellaini-Bakkioui,Paddy McNair,6
+Marouane Fellaini-Bakkioui,Phil Jones,4
+Marouane Fellaini-Bakkioui,Wayne Mark Rooney,38
+Matteo Darmian,Adnan Januzaj,6
+Matteo Darmian,Ander Herrera Agüera,72
+Matteo Darmian,Andreas Hoelgebaum Pereira,3
+Matteo Darmian,Anthony Martial,60
+Matteo Darmian,Ashley Young,16
+Matteo Darmian,Bastian Schweinsteiger,41
+Matteo Darmian,Chris Smalling,65
+Matteo Darmian,Daley Blind,61
+Matteo Darmian,David de Gea Quintana,14
+Matteo Darmian,Faustino Marcos Alberto Rojo,2
+Matteo Darmian,Jesse Lingard,85
+Matteo Darmian,Juan Manuel Mata García,145
+Matteo Darmian,Luis Antonio Valencia Mosquera,1
+Matteo Darmian,Luke Shaw,5
+Matteo Darmian,Marcus Rashford,14
+Matteo Darmian,Marouane Fellaini-Bakkioui,37
+Matteo Darmian,Memphis Depay,43
+Matteo Darmian,Michael Carrick,76
+Matteo Darmian,Morgan Schneiderlin,70
+Matteo Darmian,Paddy McNair,15
+Matteo Darmian,Phil Jones,9
+Matteo Darmian,Sergio Germán Romero,8
+Matteo Darmian,Wayne Mark Rooney,60
+Memphis Depay,Adnan Januzaj,4
+Memphis Depay,Ander Herrera Agüera,30
+Memphis Depay,Andreas Hoelgebaum Pereira,4
+Memphis Depay,Anthony Martial,21
+Memphis Depay,Ashley Young,19
+Memphis Depay,Bastian Schweinsteiger,31
+Memphis Depay,Cameron Borthwick-Jackson,24
+Memphis Depay,Chris Smalling,11
+Memphis Depay,Daley Blind,55
+Memphis Depay,Faustino Marcos Alberto Rojo,41
+Memphis Depay,Guillermo Varela Olivera,1
+Memphis Depay,Jesse Lingard,16
+Memphis Depay,Juan Manuel Mata García,75
+Memphis Depay,Luis Antonio Valencia Mosquera,1
+Memphis Depay,Luke Shaw,33
+Memphis Depay,Marcus Rashford,13
+Memphis Depay,Marouane Fellaini-Bakkioui,15
+Memphis Depay,Matteo Darmian,18
+Memphis Depay,Michael Carrick,30
+Memphis Depay,Morgan Schneiderlin,39
+Memphis Depay,Phil Jones,1
+Memphis Depay,Timothy Evans Fosu-Mensah,2
+Memphis Depay,Wayne Mark Rooney,63
+Michael Carrick,Adnan Januzaj,5
+Michael Carrick,Ander Herrera Agüera,58
+Michael Carrick,Andreas Hoelgebaum Pereira,5
+Michael Carrick,Anthony Martial,100
+Michael Carrick,Ashley Young,36
+Michael Carrick,Bastian Schweinsteiger,89
+Michael Carrick,Cameron Borthwick-Jackson,37
+Michael Carrick,Chris Smalling,103
+Michael Carrick,Daley Blind,147
+Michael Carrick,David de Gea Quintana,27
+Michael Carrick,Donald Love,5
+Michael Carrick,Faustino Marcos Alberto Rojo,51
+Michael Carrick,Guillermo Varela Olivera,16
+Michael Carrick,James Wilson,4
+Michael Carrick,Javier Hernández Balcázar,7
+Michael Carrick,Jesse Lingard,65
+Michael Carrick,Juan Manuel Mata García,184
+Michael Carrick,Luis Antonio Valencia Mosquera,37
+Michael Carrick,Luke Shaw,17
+Michael Carrick,Marcus Rashford,13
+Michael Carrick,Marouane Fellaini-Bakkioui,39
+Michael Carrick,Matteo Darmian,53
+Michael Carrick,Memphis Depay,54
+Michael Carrick,Morgan Schneiderlin,64
+Michael Carrick,Paddy McNair,18
+Michael Carrick,Phil Jones,12
+Michael Carrick,Sergio Germán Romero,7
+Michael Carrick,Timothy Evans Fosu-Mensah,1
+Michael Carrick,Wayne Mark Rooney,99
+Morgan Schneiderlin,Adnan Januzaj,5
+Morgan Schneiderlin,Ander Herrera Agüera,101
+Morgan Schneiderlin,Andreas Hoelgebaum Pereira,4
+Morgan Schneiderlin,Anthony Martial,63
+Morgan Schneiderlin,Ashley Young,53
+Morgan Schneiderlin,Bastian Schweinsteiger,92
+Morgan Schneiderlin,Cameron Borthwick-Jackson,8
+Morgan Schneiderlin,Chris Smalling,109
+Morgan Schneiderlin,Daley Blind,141
+Morgan Schneiderlin,David de Gea Quintana,10
+Morgan Schneiderlin,Donald Love,2
+Morgan Schneiderlin,Faustino Marcos Alberto Rojo,67
+Morgan Schneiderlin,Guillermo Varela Olivera,9
+Morgan Schneiderlin,Jesse Lingard,47
+Morgan Schneiderlin,Juan Manuel Mata García,162
+Morgan Schneiderlin,Luis Antonio Valencia Mosquera,34
+Morgan Schneiderlin,Luke Shaw,26
+Morgan Schneiderlin,Marcus Rashford,13
+Morgan Schneiderlin,Marouane Fellaini-Bakkioui,27
+Morgan Schneiderlin,Matteo Darmian,98
+Morgan Schneiderlin,Memphis Depay,46
+Morgan Schneiderlin,Michael Carrick,72
+Morgan Schneiderlin,Paddy McNair,5
+Morgan Schneiderlin,Phil Jones,30
+Morgan Schneiderlin,Sergio Germán Romero,5
+Morgan Schneiderlin,Timothy Evans Fosu-Mensah,11
+Morgan Schneiderlin,Wayne Mark Rooney,81
+Nick Powell,Juan Manuel Mata García,1
+Paddy McNair,Ander Herrera Agüera,1
+Paddy McNair,Andreas Hoelgebaum Pereira,3
+Paddy McNair,Anthony Martial,9
+Paddy McNair,Ashley Young,2
+Paddy McNair,Bastian Schweinsteiger,7
+Paddy McNair,Chris Smalling,21
+Paddy McNair,Daley Blind,29
+Paddy McNair,David de Gea Quintana,8
+Paddy McNair,Faustino Marcos Alberto Rojo,1
+Paddy McNair,Guillermo Varela Olivera,12
+Paddy McNair,Jesse Lingard,6
+Paddy McNair,Juan Manuel Mata García,15
+Paddy McNair,Marouane Fellaini-Bakkioui,9
+Paddy McNair,Matteo Darmian,27
+Paddy McNair,Memphis Depay,1
+Paddy McNair,Michael Carrick,11
+Paddy McNair,Morgan Schneiderlin,1
+Paddy McNair,Nick Powell,1
+Paddy McNair,Wayne Mark Rooney,4
+Phil Jones,Ander Herrera Agüera,12
+Phil Jones,Anthony Martial,5
+Phil Jones,Ashley Young,32
+Phil Jones,Bastian Schweinsteiger,14
+Phil Jones,Cameron Borthwick-Jackson,1
+Phil Jones,Chris Smalling,37
+Phil Jones,Daley Blind,5
+Phil Jones,David de Gea Quintana,32
+Phil Jones,Faustino Marcos Alberto Rojo,4
+Phil Jones,Guillermo Varela Olivera,2
+Phil Jones,Jesse Lingard,7
+Phil Jones,Juan Manuel Mata García,23
+Phil Jones,Luis Antonio Valencia Mosquera,13
+Phil Jones,Marouane Fellaini-Bakkioui,2
+Phil Jones,Matteo Darmian,15
+Phil Jones,Memphis Depay,3
+Phil Jones,Michael Carrick,18
+Phil Jones,Morgan Schneiderlin,31
+Phil Jones,Wayne Mark Rooney,17
+Sergio Germán Romero,Adnan Januzaj,1
+Sergio Germán Romero,Ander Herrera Agüera,4
+Sergio Germán Romero,Ashley Young,4
+Sergio Germán Romero,Bastian Schweinsteiger,5
+Sergio Germán Romero,Chris Smalling,9
+Sergio Germán Romero,Daley Blind,28
+Sergio Germán Romero,Juan Manuel Mata García,5
+Sergio Germán Romero,Luis Antonio Valencia Mosquera,1
+Sergio Germán Romero,Luke Shaw,6
+Sergio Germán Romero,Marouane Fellaini-Bakkioui,2
+Sergio Germán Romero,Matteo Darmian,7
+Sergio Germán Romero,Memphis Depay,3
+Sergio Germán Romero,Michael Carrick,5
+Sergio Germán Romero,Morgan Schneiderlin,6
+Sergio Germán Romero,Wayne Mark Rooney,5
+Timothy Evans Fosu-Mensah,Adnan Januzaj,1
+Timothy Evans Fosu-Mensah,Ander Herrera Agüera,11
+Timothy Evans Fosu-Mensah,Anthony Martial,3
+Timothy Evans Fosu-Mensah,Chris Smalling,2
+Timothy Evans Fosu-Mensah,Daley Blind,15
+Timothy Evans Fosu-Mensah,David de Gea Quintana,14
+Timothy Evans Fosu-Mensah,Faustino Marcos Alberto Rojo,2
+Timothy Evans Fosu-Mensah,Guillermo Varela Olivera,6
+Timothy Evans Fosu-Mensah,Jesse Lingard,3
+Timothy Evans Fosu-Mensah,Juan Manuel Mata García,13
+Timothy Evans Fosu-Mensah,Luis Antonio Valencia Mosquera,1
+Timothy Evans Fosu-Mensah,Marcus Rashford,7
+Timothy Evans Fosu-Mensah,Matteo Darmian,2
+Timothy Evans Fosu-Mensah,Memphis Depay,3
+Timothy Evans Fosu-Mensah,Michael Carrick,2
+Timothy Evans Fosu-Mensah,Morgan Schneiderlin,17
+Wayne Mark Rooney,Adnan Januzaj,4
+Wayne Mark Rooney,Ander Herrera Agüera,55
+Wayne Mark Rooney,Andreas Hoelgebaum Pereira,1
+Wayne Mark Rooney,Anthony Martial,75
+Wayne Mark Rooney,Ashley Young,40
+Wayne Mark Rooney,Bastian Schweinsteiger,60
+Wayne Mark Rooney,Cameron Borthwick-Jackson,29
+Wayne Mark Rooney,Chris Smalling,46
+Wayne Mark Rooney,Daley Blind,66
+Wayne Mark Rooney,David de Gea Quintana,5
+Wayne Mark Rooney,Donald Love,4
+Wayne Mark Rooney,Faustino Marcos Alberto Rojo,41
+Wayne Mark Rooney,James Wilson,1
+Wayne Mark Rooney,Javier Hernández Balcázar,1
+Wayne Mark Rooney,Jesse Lingard,37
+Wayne Mark Rooney,Juan Manuel Mata García,133
+Wayne Mark Rooney,Luis Antonio Valencia Mosquera,72
+Wayne Mark Rooney,Luke Shaw,7
+Wayne Mark Rooney,Marcus Rashford,12
+Wayne Mark Rooney,Marouane Fellaini-Bakkioui,20
+Wayne Mark Rooney,Matteo Darmian,35
+Wayne Mark Rooney,Memphis Depay,53
+Wayne Mark Rooney,Michael Carrick,72
+Wayne Mark Rooney,Morgan Schneiderlin,76
+Wayne Mark Rooney,Paddy McNair,4
+Wayne Mark Rooney,Phil Jones,6
