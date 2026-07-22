@@ -293,7 +293,7 @@ elif page == "⚽ xG Model":
                 mode='markers',
                 marker=dict(size=non_goals['xg']*30+5, color=non_goals['xg'],
                             colorscale='YlOrRd', cmin=0, cmax=0.5,
-                            colorbar=dict(title='xG',tickfont=dict(color='white'),titlefont=dict(color='white')),
+                            colorbar=dict(title=dict(text='xG', font=dict(color='white')), tickfont=dict(color='white')),
                             opacity=0.7, line=dict(color='white',width=0.5)),
                 name='Shot (no goal)', hovertemplate='xG: %{marker.color:.3f}<extra></extra>'
             ))
@@ -380,7 +380,7 @@ elif page == "🕸️ Pass Network":
                 fig.add_trace(go.Scatter(x=node_x, y=node_y, mode='markers+text',
                                         marker=dict(size=[s/50 for s in node_sizes],
                                                     color=node_colors, colorscale='RdYlGn',
-                                                    colorbar=dict(title='Influence',tickfont=dict(color='white'),titlefont=dict(color='white')),
+                                                    colorbar=dict(title=dict(text='Influence', font=dict(color='white')), tickfont=dict(color='white')),
                                                     line=dict(color='white',width=1)),
                                         text=node_labels, textposition='top center',
                                         textfont=dict(color='white', size=10),
